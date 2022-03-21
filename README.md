@@ -1,1 +1,1 @@
-This is a ReadMe file.
+Welcome to the pre project phase of alx.
